@@ -8,10 +8,6 @@ app = Flask(__name__, static_folder='../static', template_folder='../templates')
 def home():
     return render_template("index.html")
 
-@app.route("/menu/piazza")
-def menu_piazza():
-    return render_template("menu_piazza.html")
-
 @app.route("/menu/qbio")
 def menu_qbio():
     return render_template("menu_qbio.html")
