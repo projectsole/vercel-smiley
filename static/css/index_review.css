@@ -110,28 +110,30 @@
     font-size: 1.875rem;
     font-weight: 700;
     font-style: italic;
-    margin-top: -331px;
-    padding: 1px 24px 2px 23px;
+    margin-top: -350px;
+    padding: 6px 30px;
   }
 
   .u-section-1 .u-btn-2 {
     font-size: 1.875rem;
-    margin-top: 9px;
+    margin-top: 8px;
     margin-left: auto;
-    padding: 0 9px 2px;
+    padding: 6px 15px 7px;
   }
 
   .u-section-1 .u-btn-3 {
     font-size: 1.875rem;
-    margin-top: 9px;
+    margin-top: 8px;
     margin-left: auto;
-    padding: 1px 24px 1px 23px;
+    padding: 5px 30px 7px 29px;
   }
 
   .u-section-1 .u-btn-4 {
     font-size: 1.875rem;
     margin-top: 8px;
     margin-left: auto;
-    padding: 1px 36px;
+    padding-top: 6px;
+    padding-right: 42px;
+    padding-left: 42px;
   }
 }
