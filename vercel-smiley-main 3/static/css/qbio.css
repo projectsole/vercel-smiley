@@ -1,0 +1,16 @@
+img {
+    width: 100%;
+  }
+
+hr {
+border: 3px solid #849E78;
+}
+
+body {
+    background-color: #849E78;
+}
+
+#menu img {
+  margin-bottom: 20px; /* Aggiunge spazio sotto ogni immagine */
+  display: block; /* Assicura che ogni immagine sia su una nuova linea */
+}
